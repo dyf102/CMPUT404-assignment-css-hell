@@ -18,12 +18,13 @@ html{
   background: #f0f0f0;
 }
 
-
+/*add color to p*/
 p {
     color: #282828;
       margin-left: 50px;
         margin-right: 75px;
       }
+ /*add shadow to h1 h2 h3,h4,h5,h5*/
       h1, h2, h3, h4, h5, h6 {
           text-shadow: 15px 15px 15px #505050;
             letter-spacing: 2px;
@@ -33,7 +34,7 @@ p {
                 filter:alpha(opacity=40);
                   max-width:302px;
                 }
-
+/*add hover effect to img*/
                 img:hover {
                     opacity: 1;
                       filter:alpha(opacity=100);
