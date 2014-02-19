@@ -26,4 +26,10 @@ Code is licensed under the Apache 2.0 license.
 
 Part 1 Documentation
 =================
-I add a backgroud image of all of three HTML file and and I have included comments on main.css file and I have added some hover effect and shadow under catalog.
+Added background picture for all the webpages.
+Added coloured border to the italic paragraph.
+Highlighted the text when mouse hovers over catalog.
+Set bold effect on both subtitle and tilte.
+Part 2 Documentation
+=================
+I polished my navbar and text field through bootstrap. 1. use the navbar from bootstrap 2. use jumbotron css to decorate the text filed 3. I created both gradient mask and the navbar of the ugly.html by using photoshop
