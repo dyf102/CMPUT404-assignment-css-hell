@@ -1,0 +1,24 @@
+.navbar
+{
+	position:fixed;
+	background: url('../asset/navbar.png');
+	width: 1500px;
+	height: 50px;
+
+}
+.bodystyle{
+	padding-top: 50px;
+	background-color:red;
+}
+li
+{
+	display:inline;
+}
+ul
+{
+	margin-top: 20px;
+}
+html, body{
+    margin:0px;
+    padding:0px;
+}
